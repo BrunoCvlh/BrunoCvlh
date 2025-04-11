@@ -21,6 +21,6 @@ Ferramentas mais conhecidas e utilizadas:
 
 
 
-- ✍ Atualmente aperfeiçoando minha lógica com C#
+- ✍ Atualmente aperfeiçoando lógica com C#
 - 📚 Aprendendo melhores práticas de versionamento
 
