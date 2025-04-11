@@ -8,6 +8,7 @@ Ferramentas mais conhecidas e utilizadas:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://assets.dio.me/kKbzREwANR_lffkCH7FfYJ0qJno9MgRhqldWpYIqmSE/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzc1Y2U0NGQ3LTNmMTItNDQ5Zi1iYzhjLWZjMTNmMjg3ODFhMi5qcGc">
 </div>
 
   
