@@ -30,8 +30,9 @@ Ferramentas mais conhecidas e utilizadas:
   Projetos Desenvolvidos:
   <div style="display: inline_block"><br>
   <a href="https://montidoro.netlify.app">
-  <img align="center" alt="Logo do Montidoro" height="40" width="40" src="https://montidoro.netlify.app/Images/Logo%20Monti%20Dark.png">
-</a>
+  <img align="center" alt="Logo do Montidoro" height="40" width="40" src="https://montidoro.netlify.app/Images/Logo%20Monti%20Dark.png"></a>
+  <a href="https://calculadora-de-juros-compostos-owwa7awqirkazdeisb9cgz.streamlit.app/">
+  <img align="center" alt="Logo do Montidoro" height="40" width="40" src="https://educandoseubolso.blog.br/wp-content/uploads/2024/10/formula-de-juros-compostos.png"> </a>
 </div>
 
   
