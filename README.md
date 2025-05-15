@@ -39,7 +39,6 @@ Ferramentas mais conhecidas e utilizadas:
   ##
   Status atuais:
 
-- ✍ Aperfeiçoando lógica com C#
 - 📚 Aprendendo melhores práticas de versionamento
 - 🧠 Criando novos projetos
  
